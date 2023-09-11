@@ -1,0 +1,21 @@
+/* .navbar{
+    display: flex;
+    justify-items: space-evenly;
+} */
+body{
+    padding: 5%, 5%;
+}
+ul{
+    display: flex;
+    justify-items: space-evenly;
+}
+.btn{
+    background-color: #2f2f30;
+    color:aliceblue;
+    border-color: #2f2f30;
+}
+.btn:hover{
+    background-color: #000000;
+    color:aliceblue;
+    border-color: #000000;
+}
